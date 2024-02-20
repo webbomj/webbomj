@@ -1,16 +1,15 @@
-### Hi there 👋
+### Привет 👋
 
-<!--
-**webbomj/webbomj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨‍💻 Обо мне :</h3>
+Я Fullstack Typescript разработчик из России.  Умею в фронт, умею в бэк =)
+<ul>
+  <li>🔭 Активно ищу работу на позиции Frontend || Fullstack разразботчик</li>
 
-Here are some ideas to get you started:
+<li>🌱 Работаю с двумя популярными фреймворками на фронте: React и Angular </li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li>⚡ В свободное время изучаю новые технологии, читаю документацию. Не так давно в копилку добавил Java, Kotlin, Android SDK </li>
+</ul>
+
+🛠️ Languages and Tools :
+НTML5, PUG, CSS, SCSS, Javascript, Typescript, React, React Native, Redux/Redux toolkit, Redux Thunk, React Router, Formik, Jest, NextJs, Angular, NgRx, rxjs, NodeJs, NestJs, Express, MongoDb, PostgreSQL, GraphQL, Prisma, Trpc, Zod, Passport,
+Webpack, Vite, Axios, Lodash, Eslint, Prettier, Stylint, Postman, Docker, git, Husky
